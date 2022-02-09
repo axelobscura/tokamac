@@ -1,5 +1,9 @@
+import Layout from "./components/Layout"
+
 function HomePage() {
-  return <div>TOKAMAC WEBSITite</div>
+  return (
+    <Layout>TOKAMAC WEBSITite</Layout>
+  )
 }
 
 export default HomePage
