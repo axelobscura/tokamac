@@ -39,3 +39,9 @@ h1 {
   color: #fff;
   text-shadow: 0 0 5px #000;
 }
+
+@media (max-width: 600px) {
+  .container-fluid.home {
+    padding: 0 30px;
+  }
+}
