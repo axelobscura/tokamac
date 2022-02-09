@@ -1,5 +1,5 @@
 function HomePage() {
-  return <div>TOKAMAC WEBSITE</div>
+  return <div>TOKAMAC WEBSIT----</div>
 }
 
 export default HomePage
