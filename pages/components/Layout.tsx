@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Header from "./Header";
 
 function Layout({children}) {
   return (
@@ -14,6 +15,9 @@ function Layout({children}) {
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;800&family=Lora:wght@400;700&family=Nunito+Sans:wght@200;900&family=Poppins:wght@100;900&family=Titillium+Web:wght@200;300;900&display=swap" rel="stylesheet" /> 
       </Head>
+
+      <Header />
+
       <div className="container-fluid m-0 p-0">
         {children}
       </div>
