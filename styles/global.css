@@ -30,13 +30,13 @@ h1 {
 }
 
 .container-fluid.home h1 {
-  color: #fff;
+  color: #d3e1fe;
   text-shadow: 0 0 10px #000;
   font-size: 5rem;
 }
 
 .container-fluid.home h2 {
-  color: #fff;
+  color: #d3e1fe;
   text-shadow: 0 0 10px #000;
   text-transform: uppercase;
   padding-top: 20px;
