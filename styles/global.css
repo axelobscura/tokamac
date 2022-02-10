@@ -35,6 +35,14 @@ h1 {
   font-size: 5rem;
 }
 
+.container-fluid.home h2 {
+  color: #fff;
+  text-shadow: 0 0 10px #000;
+  text-transform: uppercase;
+  padding-top: 20px;
+  font-weight: bold;
+}
+
 .container-fluid.home h4 {
   color: #fff;
   text-shadow: 0 0 5px #000;
