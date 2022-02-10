@@ -1,0 +1,60 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 97.37 95.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-8);
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="67.65" x2="27.84" y2="67.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="0.33"/>
+      <stop offset="0.52"/>
+      <stop offset="0.73"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="20.37" y1="67.65" x2="48.21" y2="67.65" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="30.56" y1="67.65" x2="58.39" y2="67.65" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="43.14" y1="25.89" x2="66.82" y2="25.89" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="10.19" y1="67.65" x2="38.02" y2="67.65" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="48.23" y1="32.12" x2="77" y2="32.12" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="53.32" y1="38.36" x2="87.19" y2="38.36" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="58.41" y1="44.6" x2="97.37" y2="44.6" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>circ2</title>
+  <polygon class="cls-1" points="27.84 95.51 27.83 95.49 25.29 89.26 5.09 39.8 0 39.8 22.74 95.5 22.73 95.51 22.74 95.51 27.83 95.51 27.84 95.51"/>
+  <polygon class="cls-2" points="48.21 95.51 48.2 95.49 45.66 89.26 43.11 83.02 40.56 76.78 38.02 70.55 35.47 64.31 25.46 39.8 20.37 39.8 32.92 70.55 35.47 76.78 38.02 83.02 40.56 89.26 43.11 95.49 43.1 95.51 43.11 95.51 48.2 95.51 48.21 95.51"/>
+  <polygon class="cls-3" points="55.84 89.26 53.29 83.02 50.75 76.78 48.2 70.55 45.66 64.31 43.11 58.07 40.56 51.84 35.65 39.8 30.55 39.8 38.02 58.07 43.11 70.55 45.66 76.78 48.2 83.02 50.75 89.26 53.29 95.49 53.29 95.51 53.3 95.51 58.38 95.51 58.39 95.51 58.39 95.5 55.84 89.26"/>
+  <polygon class="cls-4" points="66.82 0 61.72 0 43.13 45.53 45.68 51.77 66.82 0"/>
+  <polygon class="cls-5" points="32.93 95.51 38.01 95.51 38.02 95.51 38.02 95.49 35.47 89.26 32.92 83.02 30.38 76.78 15.28 39.8 10.19 39.8 27.83 83.02 30.38 89.26 32.92 95.49 32.92 95.51 32.93 95.51"/>
+  <polygon class="cls-6" points="50.77 64.25 77 0 71.91 0 48.23 58.01 48.26 58.07 50.77 64.25"/>
+  <polygon class="cls-7" points="55.87 76.72 87.19 0 82.09 0 53.32 70.48 53.35 70.55 55.87 76.72"/>
+  <polygon class="cls-8" points="97.37 0 92.28 0 58.41 82.96 58.44 83.02 60.96 89.19 97.37 0"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 90.53 90.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="5.51" y1="50.94" x2="96.04" y2="50.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="0.33"/>
+      <stop offset="0.52"/>
+      <stop offset="0.73"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="5.52" y1="29" x2="36.6" y2="29" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="64.97" y1="70.83" x2="95.35" y2="70.83" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>circ7</title>
+  <g>
+    <path class="cls-1" d="M46.21,84.27v2.06h-0.1V86.4h-31l0.5-2.47c0.09-.44.19-0.87,0.28-1.28s0.2-.79.31-1.19l0.06-.22L16.28,81c0.09-.31.18-0.6,0.27-0.9h0v0c0.08-.24.16-0.48,0.25-0.73s0.19-.54.29-0.81,0.26-.69.4-1,0.24-.58.38-0.89a4,4,0,0,1,.17-0.37c0.13-.29.25-0.55,0.37-0.8l0.16-.32c0.13-.26.27-0.53,0.41-0.79,0-.1.11-0.22,0.19-0.35v0l0,0c0.18-.34.35-0.64,0.52-0.92s0.33-.56.52-0.85l0.07-.1,0.16-.25,0.07-.11c0.18-.29.39-0.6,0.59-0.89s0.47-.67.74-1,0.37-.5.62-0.82l0,0,0,0,0.05-.06,0.23-.29c0.21-.25.41-0.51,0.64-0.77l0.13-.15c0.23-.27.45-0.52,0.7-0.78l0.22-.23c0.24-.26.5-0.53,0.84-0.87A35.69,35.69,0,0,1,34,59.38H18.55a45,45,0,0,0-13,31.67v4.67H55.32V55.27h0V15.5h0.12l2.06,0h29L86,17.95a35.67,35.67,0,0,1-9.8,18.18,36.54,36.54,0,0,1-3.34,2.95H86A44.91,44.91,0,0,0,96,10.83V6.15H46.21V84.27Z" transform="translate(-5.51 -5.49)"/>
+    <path class="cls-2" d="M14.85,45.94V15l2.46,0.49a35.61,35.61,0,0,1,18.28,9.8q0.52,0.52,1,1.06V14A44.95,44.95,0,0,0,10.25,5.49H5.52v47H36.6V45.94H14.85Z" transform="translate(-5.51 -5.49)"/>
+    <path class="cls-3" d="M86,52.52V86.19l-2.46-.49a35.59,35.59,0,0,1-18.29-9.79L65,75.59V87.74a45.13,45.13,0,0,0,25.65,8h4.73V45.94H65v6.59H86Z" transform="translate(-5.51 -5.49)"/>
+  </g>
+</svg>
