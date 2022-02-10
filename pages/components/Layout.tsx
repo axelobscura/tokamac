@@ -5,6 +5,7 @@ function Layout({children}) {
     <div>
       <Head>
         <title>TOKAMAK Limitless clean power source</title>
+        <link rel="icon" type="image/png" href="/favicon.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content="TOKAMAK limitless clean power source is possible" />
         <meta name="keywords" content="tokamak, energy, clean power" />
