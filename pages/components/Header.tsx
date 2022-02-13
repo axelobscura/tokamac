@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { FiArrowRightCircle } from "react-icons/fi";
 
 export default function Header() {
   return (
@@ -16,17 +17,17 @@ export default function Header() {
           <ul className="navbar-nav mr-auto">
             <li className="nav-item active">
               <Link href="/">
-                <a className="nav-link">WHAT IS IT?</a>
+                <a className="nav-link d-flex"><FiArrowRightCircle className="mr-3" /> WHAT IS IT?</a>
               </Link>
             </li>
             <li className="nav-item">
               <Link href="/">
-                <a className="nav-link">HOW DOES IT WORK?</a>
+                <a className="nav-link d-flex"><FiArrowRightCircle /> HOW DOES IT WORK?</a>
               </Link>
             </li>
             <li className="nav-item">
               <Link href="/">
-                <a className="nav-link">FUSION ENERGY</a>
+                <a className="nav-link d-flex"><FiArrowRightCircle /> FUSION ENERGY</a>
               </Link>
             </li>
           </ul>

@@ -61,6 +61,12 @@ h1 {
 .nav-link {
   color: #fff;
   text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link svg {
+  margin-right: 5px;
 }
 
 .navbar-brand {
