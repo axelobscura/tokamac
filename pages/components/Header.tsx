@@ -24,6 +24,11 @@ export default function Header() {
                 <a className="nav-link">HOW DOES IT WORK?</a>
               </Link>
             </li>
+            <li className="nav-item">
+              <Link href="/">
+                <a className="nav-link">FUSION ENERGY</a>
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
