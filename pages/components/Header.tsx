@@ -16,7 +16,7 @@ export default function Header() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav mr-auto">
             <li className="nav-item active">
-              <Link href="/">
+              <Link href="/what-is-tokamak">
                 <a className="nav-link d-flex"><FiArrowRightCircle className="mr-3" /> WHAT IS IT?</a>
               </Link>
             </li>
