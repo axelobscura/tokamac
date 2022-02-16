@@ -4,7 +4,7 @@ export default function whatIsTokamac() {
   return(
     <Layout>
       <div className="what-tokamac">
-        <h1>What is a TOKAMAK</h1>
+        <h1>What is a TOKAMAK US</h1>
       </div>
     </Layout>
   )
